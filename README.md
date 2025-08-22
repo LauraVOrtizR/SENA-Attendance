@@ -1,3 +1,5 @@
-# 2025-3279852-documentation-grupo1
+# MARCO TEORICO
 
-2025-3279852-documentation-grupo1 created by GitHub Classroom
+## Nombre del Proyecto
+
+SENA Attendance
