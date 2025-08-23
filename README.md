@@ -6,7 +6,7 @@ SENA Attendance
 
 ## Objetivo General
 
-Desarrollar una aplicación segura y escalable que optimice la gestión de asistencia en el SENA, permitiendo a los instructores registrar asistencia y validar justificaciones de ausencias mediante evidencias digitales, garantizando transparencia, eficiencia y cumplimiento de políticas institucionales.
+- Desarrollar una aplicación segura y escalable que optimice la gestión de asistencia en el SENA, permitiendo a los instructores registrar asistencia y validar justificaciones de ausencias mediante evidencias digitales, garantizando transparencia, eficiencia y cumplimiento de políticas institucionales.
 
 ## Objetivos Especificos
 
@@ -19,3 +19,11 @@ Desarrollar una aplicación segura y escalable que optimice la gestión de asist
 - Desarrollar funcionalidades de apoyo a la toma de decisiones sobre la permanencia del aprendiz, mediante alertas que identifiquen patrones de inasistencia injustificada que puedan conducir a la deserción. 
 
 - Permitir la consulta ágil y detallada del historial de asistencia y justificaciones, para asegurar que tanto los instructores como cada alumno pueda acceder a la información y llevar la trazabilidad de esta.
+
+## Planteamiento del Problema
+
+- Actualmente, en el SENA no existe una estandarización clara en los procesos de toma y control de asistencia de los aprendices. Cada instructor puede utilizar diferentes mecanismos (listas manuales, hojas de cálculo, aplicaciones externas, etc.), lo que genera inconsistencias, duplicidad de información y pérdida de trazabilidad en los registros. Esta falta de un sistema unificado afecta la gestión académica y administrativa, dificulta el seguimiento oportuno de la asistencia y limita la verificación de las justificaciones de inasistencia.
+
+Como consecuencia, se presenta una falta de control efectivo sobre la permanencia de los aprendices, lo cual puede influir directamente en problemas de deserción y en la aplicación de las normas contempladas en el Reglamento del Aprendiz SENA (Acuerdo 7 de 2012), que establece la obligación de reportar y justificar oportunamente las inasistencias
+
+Por lo anterior, surge la necesidad de diseñar y desarrollar una aplicación que centralice y estandarice el proceso de registro de asistencia y validación de justificaciones, permitiendo mayor eficiencia, transparencia y soporte para la toma de decisiones académicas.
