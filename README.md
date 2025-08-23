@@ -19,3 +19,7 @@ Desarrollar una aplicación segura y escalable que optimice la gestión de asist
 - Desarrollar funcionalidades de apoyo a la toma de decisiones sobre la permanencia del aprendiz, mediante alertas que identifiquen patrones de inasistencia injustificada que puedan conducir a la deserción. 
 
 - Permitir la consulta ágil y detallada del historial de asistencia y justificaciones, para asegurar que tanto los instructores como cada alumno pueda acceder a la información y llevar la trazabilidad de esta.
+
+## Pregunta Problema
+
+- ¿Cómo diseñar una aplicación que permita a los instructores del SENA gestionar la asistencia en tiempo real y validar justificaciones de ausencias mediante evidencias digitales, garantizando cumplimiento normativo, accesibilidad y obtener una reducción en procesos manuales?
