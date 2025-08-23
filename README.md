@@ -27,3 +27,7 @@ SENA Attendance
 Como consecuencia, se presenta una falta de control efectivo sobre la permanencia de los aprendices, lo cual puede influir directamente en problemas de deserción y en la aplicación de las normas contempladas en el Reglamento del Aprendiz SENA (Acuerdo 7 de 2012), que establece la obligación de reportar y justificar oportunamente las inasistencias
 
 Por lo anterior, surge la necesidad de diseñar y desarrollar una aplicación que centralice y estandarice el proceso de registro de asistencia y validación de justificaciones, permitiendo mayor eficiencia, transparencia y soporte para la toma de decisiones académicas.
+
+## Pregunta Problema
+
+- ¿Cómo diseñar una aplicación que permita a los instructores del SENA gestionar la asistencia en tiempo real y validar justificaciones de ausencias mediante evidencias digitales, garantizando cumplimiento normativo, accesibilidad y obtener una reducción en procesos manuales?
