@@ -2,7 +2,7 @@
 
 ## Nombre del Proyecto
 
-SENA Attendance
+- SENA Attendance
 
 ## Objetivo General
 
@@ -24,10 +24,56 @@ SENA Attendance
 
 - Actualmente, en el SENA no existe una estandarización clara en los procesos de toma y control de asistencia de los aprendices. Cada instructor puede utilizar diferentes mecanismos (listas manuales, hojas de cálculo, aplicaciones externas, etc.), lo que genera inconsistencias, duplicidad de información y pérdida de trazabilidad en los registros. Esta falta de un sistema unificado afecta la gestión académica y administrativa, dificulta el seguimiento oportuno de la asistencia y limita la verificación de las justificaciones de inasistencia.
 
-Como consecuencia, se presenta una falta de control efectivo sobre la permanencia de los aprendices, lo cual puede influir directamente en problemas de deserción y en la aplicación de las normas contempladas en el Reglamento del Aprendiz SENA (Acuerdo 7 de 2012), que establece la obligación de reportar y justificar oportunamente las inasistencias
+    Como consecuencia, se presenta una falta de control efectivo sobre la permanencia de los aprendices, lo cual puede influir directamente en problemas de deserción y en la aplicación de las normas contempladas en el Reglamento del Aprendiz SENA (Acuerdo 7 de 2012), que establece la obligación de reportar y justificar oportunamente las inasistencias
 
-Por lo anterior, surge la necesidad de diseñar y desarrollar una aplicación que centralice y estandarice el proceso de registro de asistencia y validación de justificaciones, permitiendo mayor eficiencia, transparencia y soporte para la toma de decisiones académicas.
+    Por lo anterior, surge la necesidad de diseñar y desarrollar una aplicación que centralice y estandarice el proceso de registro de asistencia y validación de justificaciones, permitiendo mayor eficiencia, transparencia y soporte para la toma de decisiones académicas.
 
 ## Pregunta Problema
 
 - ¿Cómo diseñar una aplicación que permita a los instructores del SENA gestionar la asistencia en tiempo real y validar justificaciones de ausencias mediante evidencias digitales, garantizando cumplimiento normativo, accesibilidad y obtener una reducción en procesos manuales?
+
+# Alcance
+
+El aplicativo solo funcionará para el centro **CEET**.  
+Solo se podrá utilizar en dispositivos: **Desktop, Tablet, Mobile**.
+
+---
+
+## FUNCIONALIDADES
+
+### INCLUIDAS
+
+#### Gestión de Usuarios:
+- Roles: aprendiz, instructor, administrador, anónimo.
+- Formulario de creación, inicio y actualización del usuario.
+
+#### Módulo de registro:
+- Toma de asistencia cada clase (fecha/ficha/competencia), marcando: Asistió, Faltó, Justificó.
+
+#### Sistema de justificaciones:
+- Formulario para que los aprendices suban justificaciones, con carga de archivos (PDF, Imágenes).
+- Panel para validación de las justificaciones, cambio (instructor) y consulta de estados (pendiente, aceptada, rechazada).
+
+#### Consulta y reportes:
+- Historial detallado de asistencia y justificaciones.
+- Alertas automáticas dependiendo la cantidad y frecuencia de marcaciones negativas de cada aprendiz.
+
+---
+
+### NO INCLUIDAS
+
+- Gestión de horarios/cronogramas.
+- Biometría o QR para asistencia.
+- Descarga/Impresión de historial de asistencia.
+
+---
+
+## ENTREGABLES
+
+- Aplicación web funcional.
+- Aplicación móvil funcional.
+- Base de datos.
+- API.
+- Documentación técnica.
+- Manual de usuario.
+- Sistema de control de versiones.
