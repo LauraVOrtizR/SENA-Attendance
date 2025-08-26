@@ -32,35 +32,35 @@
 
 - ¿Cómo diseñar una aplicación que permita a los instructores del SENA gestionar la asistencia en tiempo real y validar justificaciones de ausencias mediante evidencias digitales, garantizando cumplimiento normativo, accesibilidad y obtener una reducción en procesos manuales?
 
-# Alcance
+## Alcance
 
 El aplicativo solo funcionará para el centro **CEET**.  
 Solo se podrá utilizar en dispositivos: **Desktop, Tablet, Mobile**.
 
 ---
 
-## FUNCIONALIDADES
+### FUNCIONALIDADES
 
-### INCLUIDAS
+#### INCLUIDAS
 
-#### Gestión de Usuarios:
+##### Gestión de Usuarios:
 - Roles: aprendiz, instructor, administrador, anónimo.
 - Formulario de creación, inicio y actualización del usuario.
 
-#### Módulo de registro:
+##### Módulo de registro:
 - Toma de asistencia cada clase (fecha/ficha/competencia), marcando: Asistió, Faltó, Justificó.
 
-#### Sistema de justificaciones:
+##### Sistema de justificaciones:
 - Formulario para que los aprendices suban justificaciones, con carga de archivos (PDF, Imágenes).
 - Panel para validación de las justificaciones, cambio (instructor) y consulta de estados (pendiente, aceptada, rechazada).
 
-#### Consulta y reportes:
+##### Consulta y reportes:
 - Historial detallado de asistencia y justificaciones.
 - Alertas automáticas dependiendo la cantidad y frecuencia de marcaciones negativas de cada aprendiz.
 
 ---
 
-### NO INCLUIDAS
+#### NO INCLUIDAS
 
 - Gestión de horarios/cronogramas.
 - Biometría o QR para asistencia.
@@ -68,7 +68,7 @@ Solo se podrá utilizar en dispositivos: **Desktop, Tablet, Mobile**.
 
 ---
 
-## ENTREGABLES
+### ENTREGABLES
 
 - Aplicación web funcional.
 - Aplicación móvil funcional.
@@ -77,3 +77,9 @@ Solo se podrá utilizar en dispositivos: **Desktop, Tablet, Mobile**.
 - Documentación técnica.
 - Manual de usuario.
 - Sistema de control de versiones.
+
+## Justificación
+
+- Actualmente la ausencia de un estándar y de una plataforma tecnológica común que se use para la gestión de la asistencia de los aprendices, genera inconsistencias y dificulta el seguimiento académico de los mismos, de igual forma, le complica a los instructores el proceso de revisión y validación de las justificaciones enviadas por los aprendices, ya que tampoco hay una plataforma unificada para cargar esta documentación. El proceso actual depende netamente del instructor asignado a cada ficha, lo que le resta eficiencia y transparencia, que también puede generar repercusiones en la permanencia de los aprendices, incrementando la posibilidad de deserciones evitables.
+
+    Como solución a esta problemática, es necesario el desarrollo de una aplicación segura y escalable, que centralice el registro de la asistencia de los aprendices y facilite la validación de justificaciones de manera digital. El sistema optimizará la labor de los instructores, garantizará la transparencia del proceso de toma de asistencia y de justificación de fallas. Con la implementación de este aplicativo se mejorará  la eficiencia administrativa, la trazabilidad de la información y la transparencia del proceso, alineándose directamente con la normativa estipulada en el manual del aprendiz, con potencial para desarrollarse como herramienta que se use a nivel institucional.
