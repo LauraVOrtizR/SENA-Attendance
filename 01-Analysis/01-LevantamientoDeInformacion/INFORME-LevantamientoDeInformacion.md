@@ -8,7 +8,7 @@ Se realizaron dos encuestas y una entrevista a un instructor para identificar ne
 
 - **Encuestas:**  
   - [Enlace a la encuesta APRENDICES](https://docs.google.com/forms/d/e/1FAIpQLSf4UHFuXOyFD9x6xXR9AYYLAt0Osalor51BR1v_rruwYewBxw/viewform?usp=sharing&ouid=113977413795209823879)
-  - [Enlace a la encuesta 2](URL_Encuesta_2)
+  - [Enlace a la encuesta INSTRUCTORES](https://docs.google.com/forms/d/e/1FAIpQLSfo9d2gpyuiojW4CTCoVlxkAd13rwcIL575Iv-bvSBqUfkTQg/viewform?usp=sharing&ouid=113977413795209823879)
   - Principales hallazgos: 
 
 - **Entrevista:**  
