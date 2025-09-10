@@ -24,9 +24,3 @@ assignees: ''
 - [ ] Criterio 3: ...
 
 ---
-
-## Notas técnicas / Consideraciones
-
-- Detalles técnicos, dependencias, links, etc.
-
----
