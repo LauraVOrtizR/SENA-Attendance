@@ -34,49 +34,7 @@
 
 ## Alcance
 
-El aplicativo solo funcionará para el centro **CEET**.  
-Solo se podrá utilizar en dispositivos: **Desktop, Tablet, Mobile**.
-
----
-
-### FUNCIONALIDADES
-
-#### INCLUIDAS
-
-##### Gestión de Usuarios:
-- Roles: aprendiz, instructor, administrador, anónimo.
-- Formulario de creación, inicio y actualización del usuario.
-
-##### Módulo de registro:
-- Toma de asistencia cada clase (fecha/ficha/competencia), marcando: Asistió, Faltó, Justificó.
-
-##### Sistema de justificaciones:
-- Formulario para que los aprendices suban justificaciones, con carga de archivos (PDF, Imágenes).
-- Panel para validación de las justificaciones, cambio (instructor) y consulta de estados (pendiente, aceptada, rechazada).
-
-##### Consulta y reportes:
-- Historial detallado de asistencia y justificaciones.
-- Alertas automáticas dependiendo la cantidad y frecuencia de marcaciones negativas de cada aprendiz.
-
----
-
-#### NO INCLUIDAS
-
-- Gestión de horarios/cronogramas.
-- Biometría o QR para asistencia.
-- Descarga/Impresión de historial de asistencia.
-
----
-
-### ENTREGABLES
-
-- Aplicación web funcional.
-- Aplicación móvil funcional.
-- Base de datos.
-- API.
-- Documentación técnica.
-- Manual de usuario.
-- Sistema de control de versiones.
+El alcance de este proyecto se limita al diseño e implementación de una aplicación web y móvil para la gestión digital de asistencia y justificación de inasistencias en el Centro de Electricidad, Electrónica y Telecomunicaciones (CEET). La solución está orientada a facilitar el registro, validación y consulta de la asistencia de los aprendices en este centro, permitiendo a los usuarios principales acceder y gestionar estos procesos de forma centralizada y segura, acorde a las necesidades académicas del CEET.
 
 ## Justificación
 
