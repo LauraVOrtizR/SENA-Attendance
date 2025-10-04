@@ -10,6 +10,10 @@ Se realizaron dos encuestas y una entrevista a un instructor para identificar ne
   - [Enlace a la encuesta APRENDICES](https://docs.google.com/forms/d/e/1FAIpQLSf4UHFuXOyFD9x6xXR9AYYLAt0Osalor51BR1v_rruwYewBxw/viewform?usp=sharing&ouid=113977413795209823879)
   - [Enlace a la encuesta INSTRUCTORES](https://docs.google.com/forms/d/e/1FAIpQLSfo9d2gpyuiojW4CTCoVlxkAd13rwcIL575Iv-bvSBqUfkTQg/viewform?usp=sharing&ouid=113977413795209823879)
 
+  - [Conclusiones encuesta APRENDICES](https://docs.google.com/document/d/1fFJM3X9P1mmC6QieoYkiMW8Ec2CSxrcEuDAN6sUYzic/edit?usp=drive_link)
+
+  - [Conclusiones encuesta INSTRUCTORES](https://docs.google.com/document/d/1LjePpkewMyfH4USLk1NUM9HRxxnSHoXjmZ6Mf2c8pLY/edit?usp=drive_link)
+
 - **Entrevista:**  
   - [Resumen de la transcripción](https://docs.google.com/document/d/1fPG8JdNN9kQ5_rjFrZd_ygALqgN-mKYWAV5Xp-9aTZA/edit?usp=sharing)
 
