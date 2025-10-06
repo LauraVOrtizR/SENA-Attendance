@@ -1,3 +1,3 @@
 # Diagrama de BPMN
 
-[SENA Attendace](https://lauravortizr.github.io/BPMN-Publication/)
+[SENA Attendance](https://lauravortizr.github.io/BPMN-Publication/)
