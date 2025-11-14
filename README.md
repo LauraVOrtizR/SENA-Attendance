@@ -6,19 +6,19 @@
 
 ## Objetivo General
 
-- Desarrollar una aplicación segura y escalable que optimice la gestión de asistencia en el SENA, permitiendo a los instructores registrar asistencia y validar justificaciones de ausencias mediante evidencias digitales, garantizando transparencia, eficiencia y cumplimiento de políticas institucionales.
+- Desarrollar una aplicación web Y móvil que facilite el registro, control y consulta de asistencia de los aprendices del SENA, permitiendo a los instructores gestionar justificaciones de ausencias de forma ágil y centralizada.
 
 ## Objetivos Especificos
 
-- Diseñar y desarrollar un estándar para  el registro de asistencia que permita a los instructores llevar un control unificado.
+- Diseñar la estructura y estandarizar el proceso de registro de asistencia, permitiendo a los instructores llevar un control unificado de los aprendices.
 
-- Implementar un sistema de carga y validación de justificaciones de inasistencia, donde los aprendices puedan adjuntar evidencias y los instructores validarlas de acuerdo con lo establecido en el reglamento del aprendiz.
+- Implementar un módulo para la carga y validación de justificaciones de inasistencia, donde los aprendices puedan adjuntar evidencias y los instructores aprobarlas o rechazarlas según el reglamento institucional.
 
-- Integrar la gestión de asistencia y justificaciones en una única plataforma, para reducir la dependencia de aplicaciones externas.
+- Integrar en una misma plataforma la gestión de asistencia y justificaciones, para centralizar la información y evitar el uso de herramientas externas.
 
-- Desarrollar funcionalidades de apoyo a la toma de decisiones sobre la permanencia del aprendiz, mediante alertas que identifiquen patrones de inasistencia injustificada que puedan conducir a la deserción. 
+- Desarrollar un módulo de alertas configurables, que notifique a los instructores sobre patrones de inasistencia y apoye el seguimiento de la permanencia del aprendiz.
 
-- Permitir la consulta ágil y detallada del historial de asistencia y justificaciones, para asegurar que tanto los instructores como cada alumno pueda acceder a la información y llevar la trazabilidad de esta.
+- Permitir la consulta detallada del historial de asistencia y justificaciones, tanto para instructores como para aprendices, asegurando la trazabilidad de la información registrada.
 
 ## Planteamiento del Problema
 
@@ -30,11 +30,12 @@
 
 ## Pregunta Problema
 
-- ¿Cómo diseñar una aplicación que permita a los instructores del SENA gestionar la asistencia en tiempo real y validar justificaciones de ausencias mediante evidencias digitales, garantizando cumplimiento normativo, accesibilidad y obtener una reducción en procesos manuales?
+¿Cómo centralizar la gestión de asistencia y justificaciones de los aprendices del SENA para facilitar el control y seguimiento por parte de los instructores?
 
 ## Alcance
 
-El alcance de este proyecto se limita al diseño e implementación de una aplicación web y móvil para la gestión digital de asistencia y justificación de inasistencias en el Centro de Electricidad, Electrónica y Telecomunicaciones (CEET). La solución está orientada a facilitar el registro, validación y consulta de la asistencia de los aprendices en este centro, permitiendo a los usuarios principales acceder y gestionar estos procesos de forma centralizada y segura, acorde a las necesidades académicas del CEET.
+El alcance de este proyecto abarca el diseño e implementación de una aplicación web y móvil para la gestión de asistencia y justificación de inasistencias en el Centro de Electricidad, Electrónica y Telecomunicaciones (CEET) del SENA.
+La solución permitirá a los instructores registrar y consultar la asistencia de los aprendices, así como validar las justificaciones de ausencias desde una misma plataforma. El desarrollo se limita al entorno del CEET, enfocándose en la digitalización y centralización de estos procesos.
 
 ## Justificación
 
