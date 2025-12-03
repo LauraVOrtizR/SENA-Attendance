@@ -1,7 +1,10 @@
 import './App.css'
+import { Button } from './components/ui/button/button'
 
 function App() {
-  // return ()
+  return (
+    <Button/>
+  )
 }
 
 export default App

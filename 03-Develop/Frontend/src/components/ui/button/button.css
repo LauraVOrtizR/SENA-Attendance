@@ -1,0 +1,17 @@
+@import url("../../../index.css");
+
+.button{
+    background-color: var(--color-primary);
+    border-radius: var(--radius-sm);
+    border: none;
+    color: var(--color-surface);
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-sm);
+    width: 100%;
+    padding: 15px 0px;
+}
+
+.primary {
+    background-color: var(--color-danger);
+}
+
