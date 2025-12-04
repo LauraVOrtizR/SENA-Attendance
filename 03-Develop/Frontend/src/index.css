@@ -20,7 +20,8 @@
   --line-height-relaxed: 1.7;
 
   /* Colors - primary (updated) */
-  --color-primary: #39a900;
+  --color-primary: #17cf17;
+  --color-secondary: #d1f5d1;
   --color-primary-hover: #2f8c00;
   --color-primary-active: #246a00;
   --color-primary-soft: #e3f6d8;
@@ -31,7 +32,7 @@
   --color-gray-150: #f6f8f6; /* custom background */
   --color-gray-200: #e5e7eb;
   --color-gray-300: #d1d5db;
-  --color-gray-400: #9ca3af;
+  --color-gray-button: #c5c5c5;
   --color-gray-500: #6b7280;
   --color-gray-600: #4b5563;
   --color-gray-700: #374151;
@@ -61,6 +62,7 @@
   --color-text-secondary: #4b5563;
   --color-text-muted: #9ca3af;
   --color-text-on-primary: #ffffff;
+  --color-text-green: #17cf17;
 
   /* Borders, radius, shadows */
   --border-color-subtle: var(--color-gray-200);

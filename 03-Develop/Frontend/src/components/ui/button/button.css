@@ -1,10 +1,9 @@
 @import url("../../../index.css");
 
 .button{
-    background-color: var(--color-primary);
     border-radius: var(--radius-sm);
     border: none;
-    color: var(--color-surface);
+    
     font-weight: var(--font-weight-bold);
     font-size: var(--font-size-sm);
     width: 100%;
@@ -12,6 +11,26 @@
 }
 
 .primary {
-    background-color: var(--color-danger);
+    background-color: var(--color-primary);
+    color: var(--color-surface);
 }
 
+.rejection{
+    background-color: var(--color-danger);
+    color: var(--color-surface);
+}
+
+.assitance-gray{
+    background-color: var(--color-gray-button);
+    color: var(--color-gray-500)
+}
+
+.assitance-green{
+    background-color: var(--color-secondary);
+    color: var( --color-text-green);
+}
+
+.warning{
+    background-color: var(--color-warning);
+    color: var(--color-surface);
+}
