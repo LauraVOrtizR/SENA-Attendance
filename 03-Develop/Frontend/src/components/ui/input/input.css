@@ -1,0 +1,11 @@
+@import "../../../index.css";
+
+.primary{
+    background-color: var( --color-gray-150);
+    border-radius: var(--radius-sm);
+    border-width: 1px;
+    border-color: var(--color-gray-200);
+
+    width: 100%;
+    padding: 15px 15px;
+}
