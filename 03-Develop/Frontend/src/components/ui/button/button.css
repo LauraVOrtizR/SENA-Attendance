@@ -10,7 +10,7 @@
     padding: 15px 0px;
 }
 
-.primary {
+.green {
     background-color: var(--color-primary);
     color: var(--color-surface);
 }

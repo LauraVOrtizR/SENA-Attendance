@@ -92,6 +92,11 @@
   padding: 0;
 };
 
-body {
-  font-family: var(--font-family-base);
+html, body {
+  height: 100%;
 }
+
+body {
+  height: 100%;
+  font-family: var(--font-family-base);
+} 
