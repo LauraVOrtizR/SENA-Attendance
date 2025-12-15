@@ -1,7 +1,7 @@
 import "./input.css"
 
-export function Input({type, placeholder}) {
+export function Input({type, placeholder, name}) {
     return(
-        <input className={`primary`} type={type} placeholder={placeholder}></input>
+        <input className="input" type={type} placeholder={placeholder} name={name}/>
     )
 }

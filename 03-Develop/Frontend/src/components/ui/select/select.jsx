@@ -1,9 +1,9 @@
 import "./select.css"
 
-export function Select({size, type, name, id}){
+export function Select({size, name}){
     return (
-        <select className={`primary ${size}`} type={type} name={name} id={id}>
-            <option value="" selected >Tipo Documento</option>
+        <select className={`primary ${size}`} name={name}>
+            <option value="" defaultValue={true} >Tipo Documento</option>
             <option value="">CC</option>
             <option value="">TI</option>
             <option value="">CE</option>
