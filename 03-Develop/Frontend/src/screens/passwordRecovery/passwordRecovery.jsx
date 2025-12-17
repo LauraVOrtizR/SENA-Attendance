@@ -10,7 +10,7 @@ export function PasswordRecovery() {
         <> 
         <Navbar/>
         <div className="password-recovery-container">    
-            <SessionCard title="Recuperar Contraseña" description="Ingresa tus datos y te enviaremos un enlace para restablecer tu contraseña" text="¿Recordaste tu contraseña? " link="Inicia sesión aquí">
+            <SessionCard title="Recuperar Contraseña" description="Ingresa tus datos y te enviaremos un enlace para restablecer tu contraseña" text="¿Recordaste tu contraseña? " link="Inicia sesión aquí" url="/login">
                 <form className="password-recovery-form" id="password-recovery">
                     <Select name="documentType"/>
                     <Input type="text" placeholder="Número de Documento" name="documentNumber"/>

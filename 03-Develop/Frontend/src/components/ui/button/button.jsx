@@ -1,7 +1,7 @@
 import "./button.css"
 
-export function Button({label, type, color, onClick, isDesable = false}) {
+export function Button({label, type = "button", color, onClick, isDesabled = false}) {
     return(
-        <button className={`button ${color}`}>{label}</button>
+        <button type={type} className={`button ${color}`} onClick={onClick} disabled={isDesabled}>{label}</button>
     )
 }

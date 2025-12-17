@@ -10,7 +10,7 @@ export function Register() {
         <>
         <Navbar/>
         <div className="register-container">
-            <SessionCard title={"Crear Perfil de Aprendiz"} description={"Compreta tus datos para registrarte" } text={"¿Ya tienes una cuenta? "} link={"Iniciar sesión"}>
+            <SessionCard title={"Crear Perfil de Aprendiz"} description={"Compreta tus datos para registrarte" } text={"¿Ya tienes una cuenta? "} link={"Iniciar sesión"} url={"/login"}>
                 <form className="register-form" id='register'>
                     <Input type="text" placeholder="Nombre" name="name"/>
                     <Input type="text" placeholder="Apellido" name="lastName"/>
