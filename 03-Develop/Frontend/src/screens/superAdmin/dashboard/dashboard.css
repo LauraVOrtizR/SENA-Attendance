@@ -1,0 +1,4 @@
+.statistics-container{
+    display: flex;
+    gap: var(--spacing-xs);
+}

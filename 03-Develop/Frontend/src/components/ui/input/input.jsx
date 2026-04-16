@@ -1,7 +1,9 @@
 import "./input.css"
 
-export function Input({type, placeholder, name}) {
+export function Input({label_name, type, placeholder, name}) {
     return(
-        <input className="input" type={type} placeholder={placeholder} name={name}/>
+        <label htmlFor="">{label_name}
+            <input className="input" type={type} placeholder={placeholder} name={name}/>
+        </label>
     )
 }

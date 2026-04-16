@@ -20,7 +20,7 @@
   --line-height-relaxed: 1.7;
 
   /* Colors - primary (updated) */
-  --color-primary: #17cf17;
+  --color-primary: #0354ca;
   --color-secondary: #d1f5d1;
   --color-primary-hover: #2f8c00;
   --color-primary-active: #246a00;
@@ -53,7 +53,7 @@
   --color-info-soft: #dbeafe;
 
   /* Background & surfaces */
-  --color-background: #f6f8f6;
+  --color-background: #f4f5fa;
   --color-surface: #ffffff;
   --color-surface-alt: #f9fafb;
 

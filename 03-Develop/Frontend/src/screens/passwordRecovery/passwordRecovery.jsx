@@ -3,18 +3,19 @@ import { Input } from "../../components/ui/input/input";
 import { Button } from "../../components/ui/button/button";
 import { Select } from "../../components/ui/select/select";
 import { SessionCard } from "../../layouts/sessionCard/sessionCard";
-import { Navbar } from "../../layouts/navbar/navbar";
+import logoSchool from '../../assets/LogoSchoolCore.png';
+// import { Navbar } from "../../layouts/navbar/navbar";
 
 export function PasswordRecovery() {
     return (
         <> 
-        <Navbar/>
-        <div className="password-recovery-container">    
-            <SessionCard title="Recuperar Contraseña" description="Ingresa tus datos y te enviaremos un enlace para restablecer tu contraseña" text="¿Recordaste tu contraseña? " link="Inicia sesión aquí" url="/login">
+        {/* <Navbar/> */}
+        <div className="password-recovery-container">
+            <img className="logo" src={logoSchool} alt="SchoolCore"/> 
+            <SessionCard title="¿Olvidaste tu contraseña?" description="Ingresa tu correo electrónico registrado y te enviaremos instrucciones para restablecerla" link="Volver al inicio de sesión" url="/login">
                 <form className="password-recovery-form" id="password-recovery">
-                    <Select name="documentType"/>
-                    <Input type="text" placeholder="Número de Documento" name="documentNumber"/>
-                    <Button color={"green"} label="Recuperar contraseña"/>
+                    <Input label_name="Contraseña" type="text" placeholder="ejemplo@gmail.com" name="documentNumber"/>
+                    <Button color={"blue"} label="Recuperar contraseña"/>
                 </form>
             </SessionCard>
         </div>

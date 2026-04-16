@@ -1,6 +1,8 @@
 .login-container {
     height: 100vh;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
 }
 
@@ -11,10 +13,22 @@
     gap: var(--spacing-md)
 }
 
+.login-links {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
 .link{
     font-size: var(--font-size-sm);
     font-weight: var(--font-weight-regular);
     color: var(--color-primary);
     text-decoration: none;
     text-align: end;
+}
+
+.logo{
+    width: 18%;
+    height: auto;
+    margin-bottom: 1%;
 }
